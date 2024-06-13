@@ -1,0 +1,5 @@
+# ignorar arquivos para enviar para o repositório
+temp/
+pintos_dev_container/
+pintos/
+
